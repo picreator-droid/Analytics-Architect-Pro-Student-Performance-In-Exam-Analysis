@@ -82,3 +82,10 @@ The `StudentsPerformance.csv` dataset contains the following columns:
 
 - 🛠️ Ensure **Jupyter Notebook** is properly installed to view and run the notebook.
 - 🧼 The dataset is **clean** and ready for basic analysis without preprocessing.
+  ----
+
+📬 Contact
+Piyush
+📍 Greater Noida, UP
+📧 piyush713713@gmail.com
+🔗 LinkedIn | GitHub
